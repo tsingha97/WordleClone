@@ -5,10 +5,15 @@ export const validWords = [
   "CRANE",
   "DREAM",
   "EAGER",
-  "Brand",
+  "BRAND",
   "CATCH",
   "CLIMB",
   "DANCE",
+  "BREAK",
+  "CLOUD",
+  "DRINK",
+  "EARTH",
+  "BRAIN",
   // ... more words as desired
 ];
 
