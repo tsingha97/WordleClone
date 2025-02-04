@@ -42,5 +42,7 @@ A simple Wordle-like game built with **React** and **Tailwind CSS** using a **Vi
 
 2. **How to Run**
 
+   ```bash
    npm install
    npm run dev
+   ```
